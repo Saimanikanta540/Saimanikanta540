@@ -1,75 +1,69 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B%2C+I'm+Sai+Manikanta;Java+Full+Stack+Developer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
+</div>
 
-![Avatar](https://ui-avatars.com/api/?name=SM&background=0f172a&color=58a6ff&bold=true&rounded=true&size=76)
+<br/>
 
-### Sai Manikanta Pasumarthi
-**@Saimanikanta540 · KL University · Vaddeswaram · Batch 2027**
-Final year **CS** engineer building scalable full-stack systems and exploring **Generative AI & ML**
+### 👨‍💻 About Me
 
-![Java Full Stack](https://img.shields.io/badge/Java%20Full%20Stack-1f6feb?style=for-the-badge&logoColor=white)
-![AI / ML](https://img.shields.io/badge/AI%20%2F%20ML-1f6feb?style=for-the-badge&logoColor=white)
-![Open to Work](https://img.shields.io/badge/Open%20to%20Work-238636?style=for-the-badge&logoColor=white)
-[![Profile Views](https://komarev.com/ghpvc/?username=Saimanikanta540&label=Profile+Views&color=58a6ff&style=for-the-badge)](https://github.com/Saimanikanta540)
-[![GitHub Stars](https://img.shields.io/github/stars/Saimanikanta540?label=Total+Stars&style=for-the-badge&color=58a6ff)](https://github.com/Saimanikanta540?tab=repositories)
+- 🎓 B.Tech CSE @ **KL University**, Graduating 2027
+- 💼 Java Full Stack Developer | AI & ML Enthusiast
+- 🌱 Currently learning **Microservices, Deep Learning & Generative AI**
+- 🎯 Goal: Software Engineer + AI/ML Engineer
+- 📍 Andhra Pradesh, India
 
+---
+
+### 🛠️ Tech Stack
+
+**Languages**
+`Java` `Python` `JavaScript` `SQL` `HTML5` `CSS3`
+
+**Backend**
+`Spring Boot` `Spring MVC` `Spring Data JPA` `Hibernate` `REST APIs`
+
+**Frontend**
+`React.js` `Bootstrap` `Tailwind CSS`
+
+**Database**
+`MySQL` `MongoDB`
+
+**Tools**
+`Git` `GitHub` `Postman` `IntelliJ IDEA` `VS Code`
+
+---
+
+### 🚀 Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [Arbeit](https://github.com/Saimanikanta540) | Full-stack job portal with auth & application tracking | Spring Boot · React · MySQL |
+| [Climate Shield AI](https://github.com/Saimanikanta540) | AI-powered climate risk platform with ML predictions | Python · ML · Data Viz |
+| [Car Rental System](https://github.com/Saimanikanta540) | Vehicle booking & fleet management platform | Spring Boot · React · MySQL |
+| [Budget Buddy](https://github.com/Saimanikanta540) | Expense tracking & budget management system | Spring Boot · React |
+| [Weather App](https://github.com/Saimanikanta540) | Live weather forecasting using external APIs | HTML · CSS · JavaScript |
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Saimanikanta540&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saimanikanta540&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
-| 9.0+ &nbsp; CGPA | 5 &nbsp; Projects Shipped | 500+ &nbsp; Yearly Commits |
-|:-:|:-:|:-:|
-| **Spring Boot** &nbsp; Primary Stack | **React.js** &nbsp; Frontend | **Python / ML** &nbsp; AI Layer |
+### 🤝 Connect With Me
 
----
+<div align="center">
 
-### Contribution Landscape · 2024–2025
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Saimanikanta540)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sai-manikanta-64510b301/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saimanikanta0540@gmail.com)
 
-![3D Contribution Grid](https://raw.githubusercontent.com/Saimanikanta540/Saimanikanta540/main/profile-3d-contrib/profile-night-rainbow.svg)
+</div>
 
-> ⚙️ *To enable this: go to [GitHub Actions Marketplace → profile-3d-contrib](https://github.com/marketplace/actions/github-profile-3d-contrib) and set up the workflow in your profile repo.*
-
----
-
-### Featured Projects
-
-- **[001 — Arbeit · Job Management System](https://github.com/Saimanikanta540/JobPortal)**
-  Full-stack job portal with authentication, job posting, and application tracking. Clean REST API design with role-based access.
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square)
-
-- **[002 — Climate Shield AI](https://github.com/Saimanikanta540)**
-  AI-powered climate intelligence platform analysing environmental data with predictive models and interactive risk dashboards.
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square) ![ML](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square) ![Dashboards](https://img.shields.io/badge/Data%20Visualisation-0ea5e9?style=flat-square)
-
-- **[003 — Car Rental System](https://github.com/Saimanikanta540/CarRental)**
-  End-to-end vehicle booking and fleet management platform with a smooth full-stack experience.
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square)
-
-- **[004 — Budget Buddy](https://github.com/Saimanikanta540/Budget-Buddy)**
-  Personal finance management system with expense categorisation, budget tracking, and reporting features.
-  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square)
-
-- **[005 — Weather Application](https://github.com/Saimanikanta540)**
-  Live weather forecasting app consuming external APIs. First taste of real-time data-driven interfaces.
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square)
-
----
-
-### Stack & Activity
-
-| Dev Stack | Top Streak |
-|---|---|
-| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Saimanikanta540&layout=compact&theme=tokyonight&hide_border=true) | [![Streak](https://streak-stats.demolab.com/?user=Saimanikanta540&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) |
-
-| Notable Certs |
-|---|
-| *(Add your certifications here — e.g. Oracle GenAI · NVIDIA DLI · AWS · Google ML)* |
-
----
-
-### Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=58a6ff)](https://github.com/Saimanikanta540)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58a6ff)](https://www.linkedin.com/in/sai-manikanta-64510b301/)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=58a6ff)](mailto:saimanikanta0540@gmail.com)
-
-<sub>KL University · Andhra Pradesh, India 🇮🇳 · Open to internships & full-time roles</sub>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Saimanikanta540&style=flat-square&color=58a6ff" alt="profile views" />
+</div>
