@@ -16,7 +16,7 @@ Final year **CS** engineer building scalable full-stack systems and exploring **
 
 ---
 
-| 8.5+ &nbsp; CGPA | 5 &nbsp; Projects Shipped | 500+ &nbsp; Yearly Commits |
+| 9.0+ &nbsp; CGPA | 5 &nbsp; Projects Shipped | 500+ &nbsp; Yearly Commits |
 |:-:|:-:|:-:|
 | **Spring Boot** &nbsp; Primary Stack | **React.js** &nbsp; Frontend | **Python / ML** &nbsp; AI Layer |
 
