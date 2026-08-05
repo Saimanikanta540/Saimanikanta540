@@ -37,29 +37,12 @@
 
 | Project | Description | Stack |
 |---|---|---|
+| [LLM From Scratch](https://github.com/Saimanikanta540/LLM_Scratch) | Built a GPT-style large language model from first principles — tokenizer, attention, and training loop | Python · PyTorch · Transformers |
 | [Arbeit](https://github.com/Saimanikanta540) | Full-stack job portal with auth & application tracking | Spring Boot · React · MySQL |
 | [Climate Shield AI](https://github.com/Saimanikanta540) | AI-powered climate risk platform with ML predictions | Python · ML · Data Viz |
 | [Car Rental System](https://github.com/Saimanikanta540) | Vehicle booking & fleet management platform | Spring Boot · React · MySQL |
 | [Budget Buddy](https://github.com/Saimanikanta540) | Expense tracking & budget management system | Spring Boot · React |
 | [Weather App](https://github.com/Saimanikanta540) | Live weather forecasting using external APIs | HTML · CSS · JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Saimanikanta540&theme=tokyonight" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Saimanikanta540&theme=tokyonight" height="170"/>
-
-</div>
-
-<div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Saimanikanta540&theme=tokyonight&utcOffset=5.5" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Saimanikanta540&theme=tokyonight" height="170"/>
-
-</div>
 
 ---
 
